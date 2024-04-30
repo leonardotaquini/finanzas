@@ -1,0 +1,16 @@
+.mes {
+  background-color: #E5A4F5!important;
+  color: black!important;
+}
+
+.mes:hover {
+  color: black;
+}
+
+.btn-mes{
+  border-radius: 500px!important;
+}
+
+* {
+  font-family: "Roboto", sans-serif;
+}
